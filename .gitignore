@@ -1,0 +1,4 @@
+tests/__pycache__/
+hexlet_pytest/__pycache__/
+hexlet_pytest/hexlet_pytest/__pycache__/
+.idea/
